@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.exe
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.deps.json
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.json
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.genruntimeconfig.cache

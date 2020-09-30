@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\bin\Debug\netcoreapp3.1\07.HotPotatoe.exe
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\bin\Debug\netcoreapp3.1\07.HotPotatoe.deps.json
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\bin\Debug\netcoreapp3.1\07.HotPotatoe.runtimeconfig.json
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\bin\Debug\netcoreapp3.1\07.HotPotatoe.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\bin\Debug\netcoreapp3.1\07.HotPotatoe.dll
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\bin\Debug\netcoreapp3.1\07.HotPotatoe.pdb
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\obj\Debug\netcoreapp3.1\07.HotPotatoe.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\obj\Debug\netcoreapp3.1\07.HotPotatoe.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\obj\Debug\netcoreapp3.1\07.HotPotatoe.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\obj\Debug\netcoreapp3.1\07.HotPotatoe.dll
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\obj\Debug\netcoreapp3.1\07.HotPotatoe.pdb
+C:\Users\Bobby\source\repos\Stacks and Queues - Lab\07.HotPotatoe\obj\Debug\netcoreapp3.1\07.HotPotatoe.genruntimeconfig.cache
