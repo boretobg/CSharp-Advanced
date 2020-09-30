@@ -1,0 +1,8 @@
+To play game, go inside the 'Among.Us.v2020.9.9s' folder, right click and run 'Among Us' as administrator
+
+If you get any missing dll errors, go inside the _Redist folder and install all 6 programs in the folder
+
+Game is updated to v2020.9.9s and includes working multiplayer.
+
+For more FREE STEAM GAMES, visit steamunlocked.net
+

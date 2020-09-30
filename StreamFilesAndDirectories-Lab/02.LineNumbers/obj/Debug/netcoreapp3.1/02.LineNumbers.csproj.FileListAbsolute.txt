@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\bin\Debug\netcoreapp3.1\02.LineNumbers.exe
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\bin\Debug\netcoreapp3.1\02.LineNumbers.deps.json
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\bin\Debug\netcoreapp3.1\02.LineNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\bin\Debug\netcoreapp3.1\02.LineNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\bin\Debug\netcoreapp3.1\02.LineNumbers.dll
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\bin\Debug\netcoreapp3.1\02.LineNumbers.pdb
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.dll
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.pdb
+C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\02.LineNumbers\obj\Debug\netcoreapp3.1\02.LineNumbers.genruntimeconfig.cache
