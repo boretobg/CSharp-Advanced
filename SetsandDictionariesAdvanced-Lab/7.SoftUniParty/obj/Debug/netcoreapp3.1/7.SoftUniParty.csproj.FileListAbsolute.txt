@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.exe
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.deps.json
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.runtimeconfig.json
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.dll
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\bin\Debug\netcoreapp3.1\7.SoftUniParty.pdb
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.dll
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.pdb
+C:\Users\Bobby\source\repos\SetsandDictionariesAdvanced-Lab\7.SoftUniParty\obj\Debug\netcoreapp3.1\7.SoftUniParty.genruntimeconfig.cache

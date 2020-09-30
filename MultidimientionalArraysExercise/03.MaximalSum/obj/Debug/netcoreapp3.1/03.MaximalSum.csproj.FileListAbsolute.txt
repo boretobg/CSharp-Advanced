@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.exe
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.deps.json
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.runtimeconfig.json
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.dll
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.pdb
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.dll
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.pdb
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.genruntimeconfig.cache

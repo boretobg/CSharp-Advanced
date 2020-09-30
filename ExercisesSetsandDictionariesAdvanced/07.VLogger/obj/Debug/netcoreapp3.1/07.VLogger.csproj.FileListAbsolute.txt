@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\bin\Debug\netcoreapp3.1\07.VLogger.exe
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\bin\Debug\netcoreapp3.1\07.VLogger.deps.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\bin\Debug\netcoreapp3.1\07.VLogger.runtimeconfig.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\bin\Debug\netcoreapp3.1\07.VLogger.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\bin\Debug\netcoreapp3.1\07.VLogger.dll
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\bin\Debug\netcoreapp3.1\07.VLogger.pdb
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.dll
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.pdb
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\07.VLogger\obj\Debug\netcoreapp3.1\07.VLogger.genruntimeconfig.cache

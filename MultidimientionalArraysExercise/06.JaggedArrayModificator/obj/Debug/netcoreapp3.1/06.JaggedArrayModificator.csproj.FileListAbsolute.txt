@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\bin\Debug\netcoreapp3.1\06.JaggedArrayModificator.exe
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\bin\Debug\netcoreapp3.1\06.JaggedArrayModificator.deps.json
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\bin\Debug\netcoreapp3.1\06.JaggedArrayModificator.runtimeconfig.json
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\bin\Debug\netcoreapp3.1\06.JaggedArrayModificator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\bin\Debug\netcoreapp3.1\06.JaggedArrayModificator.dll
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\bin\Debug\netcoreapp3.1\06.JaggedArrayModificator.pdb
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.dll
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.pdb
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\MultidimientionalArraysExercise\06.JaggedArrayModificator\obj\Debug\netcoreapp3.1\06.JaggedArrayModificator.csprojAssemblyReference.cache

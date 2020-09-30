@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.exe
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.deps.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.dll
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.dll
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.genruntimeconfig.cache

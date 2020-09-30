@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.exe
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.deps.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.dll
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.dll
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+C:\Users\Bobby\source\repos\ExercisesSetsandDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.genruntimeconfig.cache
