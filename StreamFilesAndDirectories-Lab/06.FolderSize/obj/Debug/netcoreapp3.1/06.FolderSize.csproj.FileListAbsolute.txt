@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.csprojAssemblyReference.cache
