@@ -9,26 +9,45 @@ namespace _04.MergeFiles
         static void Main(string[] args)
         {
             var list = new List<int>();
-            using (var reader = new StreamReader("../../../first.txt"))
+
+            using (var readerOne = new StreamReader("../../../input1.txt"))
             {
-                int num = int.Parse(reader.ReadLine());
-                
+                string line = "";
+                while (true)
+                {
+                    line = readerOne.ReadLine();
+                    if (line == null)
+                    {
+                        break;
+                    }
+                    list.Add(int.Parse(line));
+                }
             }
 
-            using (var reader2 = new StreamReader("../../../second.txt"))
+            using (var readerTwo = new StreamReader("../../../input2.txt"))
             {
-                list.Add(int.Parse(reader2.ReadLine()));
+                string line = "";
+                while (true)
+                {
+                    line = readerTwo.ReadLine();
+                    if (line == null)
+                    {
+                        break;
+                    }
+                    list.Add(int.Parse(line));
+                }
             }
 
             list.Sort();
 
-            using (var writer = new StreamWriter("../../../sorted.txt"))
+            using (var writer = new StreamWriter("../../../output.txt"))
             {
                 for (int i = 0; i < list.Count; i++)
                 {
                     writer.WriteLine(list[i]);
                 }
             }
+
         }
     }
 }

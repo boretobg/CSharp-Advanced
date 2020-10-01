@@ -11,3 +11,16 @@ C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\n
 C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.dll
 C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.pdb
 C:\Users\Bobby\source\repos\StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.genruntimeconfig.cache
