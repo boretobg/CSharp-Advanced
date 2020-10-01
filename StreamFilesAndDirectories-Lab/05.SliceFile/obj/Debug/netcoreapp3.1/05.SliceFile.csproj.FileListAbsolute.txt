@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\bin\Debug\netcoreapp3.1\05.SliceFile.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\bin\Debug\netcoreapp3.1\05.SliceFile.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\bin\Debug\netcoreapp3.1\05.SliceFile.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\bin\Debug\netcoreapp3.1\05.SliceFile.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\bin\Debug\netcoreapp3.1\05.SliceFile.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\bin\Debug\netcoreapp3.1\05.SliceFile.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamFilesAndDirectories-Lab\05.SliceFile\obj\Debug\netcoreapp3.1\05.SliceFile.genruntimeconfig.cache
