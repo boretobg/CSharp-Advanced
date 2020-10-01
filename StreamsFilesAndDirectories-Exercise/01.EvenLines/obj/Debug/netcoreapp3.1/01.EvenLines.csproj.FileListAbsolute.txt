@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\bin\Debug\netcoreapp3.1\01.EvenLines.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\01.EvenLines\obj\Debug\netcoreapp3.1\01.EvenLines.csprojAssemblyReference.cache
