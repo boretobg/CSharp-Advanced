@@ -10,3 +10,4 @@ C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-E
 C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.dll
 C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.pdb
 C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\04.CopyBinaryFile\obj\Debug\netcoreapp3.1\04.CopyBinaryFile.csprojAssemblyReference.cache
