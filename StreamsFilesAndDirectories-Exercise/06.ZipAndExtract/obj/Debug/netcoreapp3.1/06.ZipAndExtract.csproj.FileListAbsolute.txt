@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\bin\Debug\netcoreapp3.1\06.ZipAndExtract.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\06.ZipAndExtract\obj\Debug\netcoreapp3.1\06.ZipAndExtract.genruntimeconfig.cache
