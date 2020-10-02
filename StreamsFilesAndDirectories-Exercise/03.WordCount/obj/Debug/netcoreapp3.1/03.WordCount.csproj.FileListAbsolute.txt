@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.genruntimeconfig.cache
