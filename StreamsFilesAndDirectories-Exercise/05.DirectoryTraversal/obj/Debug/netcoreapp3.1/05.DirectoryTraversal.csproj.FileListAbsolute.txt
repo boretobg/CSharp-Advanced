@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\bin\Debug\netcoreapp3.1\05.DirectoryTraversal.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\StreamsFilesAndDirectories-Exercise\05.DirectoryTraversal\obj\Debug\netcoreapp3.1\05.DirectoryTraversal.genruntimeconfig.cache
