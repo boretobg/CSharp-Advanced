@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPoint", "01.ActionPoint\01.ActionPoint.csproj", "{5EA4A960-4677-4AD2-86E3-C6CC67E10F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ActionPoint", "01.ActionPoint\01.ActionPoint.csproj", "{5EA4A960-4677-4AD2-86E3-C6CC67E10F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. KnightsOfHonor", "02. KnightsOfHonor\02. KnightsOfHonor.csproj", "{B725AF5D-943D-4706-9CB7-0BD2740B8C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. KnightsOfHonor", "02. KnightsOfHonor\02. KnightsOfHonor.csproj", "{B725AF5D-943D-4706-9CB7-0BD2740B8C0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{7A961CD8-10B4-46E8-9F4E-73ECFCC21AAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{7A961CD8-10B4-46E8-9F4E-73ECFCC21AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvenOrOdds", "04.FindEvenOrOdds\04.FindEvenOrOdds.csproj", "{8B0A702B-BAF3-4B8F-9301-34A847F711A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FindEvenOrOdds", "04.FindEvenOrOdds\04.FindEvenOrOdds.csproj", "{8B0A702B-BAF3-4B8F-9301-34A847F711A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{395A12C9-37F6-42C2-813E-502D8CD249D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{395A12C9-37F6-42C2-813E-502D8CD249D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{395A12C9-37F6-42C2-813E-502D8CD249D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{395A12C9-37F6-42C2-813E-502D8CD249D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{395A12C9-37F6-42C2-813E-502D8CD249D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

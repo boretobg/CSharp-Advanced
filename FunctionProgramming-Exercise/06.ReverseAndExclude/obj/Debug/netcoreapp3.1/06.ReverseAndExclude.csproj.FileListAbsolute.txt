@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\bin\Debug\netcoreapp3.1\06.ReverseAndExclude.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\06.ReverseAndExclude\obj\Debug\netcoreapp3.1\06.ReverseAndExclude.genruntimeconfig.cache
