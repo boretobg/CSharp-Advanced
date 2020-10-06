@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\bin\Debug\netcoreapp3.1\10.PredicateParty!.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\10.PredicateParty!\obj\Debug\netcoreapp3.1\10.PredicateParty!.genruntimeconfig.cache

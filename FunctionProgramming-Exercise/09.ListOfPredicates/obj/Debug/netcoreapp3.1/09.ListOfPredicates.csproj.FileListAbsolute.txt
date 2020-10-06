@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\bin\Debug\netcoreapp3.1\09.ListOfPredicates.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\09.ListOfPredicates\obj\Debug\netcoreapp3.1\09.ListOfPredicates.genruntimeconfig.cache
