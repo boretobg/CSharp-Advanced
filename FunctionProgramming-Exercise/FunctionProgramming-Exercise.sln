@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AppliedArithmetics", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{D621FAC6-A9FE-4B3A-8F22-CAA375D29A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CustomComparator", "08.CustomComparator\08.CustomComparator.csproj", "{02121BBA-F8F7-4B67-B8B5-7C5D8F901C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C3C70F-5852-4BED-821B-5CC0FC7B8411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D621FAC6-A9FE-4B3A-8F22-CAA375D29A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D621FAC6-A9FE-4B3A-8F22-CAA375D29A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D621FAC6-A9FE-4B3A-8F22-CAA375D29A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D621FAC6-A9FE-4B3A-8F22-CAA375D29A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02121BBA-F8F7-4B67-B8B5-7C5D8F901C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02121BBA-F8F7-4B67-B8B5-7C5D8F901C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02121BBA-F8F7-4B67-B8B5-7C5D8F901C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02121BBA-F8F7-4B67-B8B5-7C5D8F901C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

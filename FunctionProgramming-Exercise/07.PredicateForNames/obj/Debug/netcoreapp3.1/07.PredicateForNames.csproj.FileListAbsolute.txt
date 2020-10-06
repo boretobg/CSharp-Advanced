@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\FunctionProgramming-Exercise\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.genruntimeconfig.cache
