@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\bin\Debug\netcoreapp3.1\05.SpecialCars.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\05.SpecialCars\obj\Debug\netcoreapp3.1\05.SpecialCars.genruntimeconfig.cache
