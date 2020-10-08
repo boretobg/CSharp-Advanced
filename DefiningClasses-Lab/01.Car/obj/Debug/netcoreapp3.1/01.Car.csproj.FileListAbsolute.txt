@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\bin\Debug\netcoreapp3.1\01.Car.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\bin\Debug\netcoreapp3.1\01.Car.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\bin\Debug\netcoreapp3.1\01.Car.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\bin\Debug\netcoreapp3.1\01.Car.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\bin\Debug\netcoreapp3.1\01.Car.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\bin\Debug\netcoreapp3.1\01.Car.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Lab\CarManufacturer\obj\Debug\netcoreapp3.1\01.Car.genruntimeconfig.cache
