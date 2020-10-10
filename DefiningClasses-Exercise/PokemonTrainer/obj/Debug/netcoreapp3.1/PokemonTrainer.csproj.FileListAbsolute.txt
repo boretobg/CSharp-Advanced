@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache
