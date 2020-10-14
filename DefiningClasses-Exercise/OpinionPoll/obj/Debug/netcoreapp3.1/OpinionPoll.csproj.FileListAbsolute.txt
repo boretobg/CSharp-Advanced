@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.genruntimeconfig.cache

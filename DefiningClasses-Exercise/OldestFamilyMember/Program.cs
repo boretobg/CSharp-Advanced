@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Contracts;
 
 namespace OldestFamilyMember
 {
@@ -6,17 +7,17 @@ namespace OldestFamilyMember
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
-            person.Name = "Bore";
-            person.Age = 18;
-
-            Person person2 = new Person();
-            person.Name = "Moras";
-            person.Age = 8;
-
+            int n = int.Parse(Console.ReadLine());
             Family family = new Family();
-            family.ListFamily(person);
-            
+            for (int i = 0; i < n; i++)
+            {
+                string[] input = Console.ReadLine().Split();
+                Person person = new Person(input[0], int.Parse(input[1]));
+                family.AddMember(person);
+            }
+
+            Person oldest = family.GetOldestMember();
+            Console.WriteLine($"{oldest.Name} {oldest.Age}");
         }
     }
 }

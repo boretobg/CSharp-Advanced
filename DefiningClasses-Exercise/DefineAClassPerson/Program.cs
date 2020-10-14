@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DefiningClasses;
+using System;
 
 namespace DefiningClasses
 {

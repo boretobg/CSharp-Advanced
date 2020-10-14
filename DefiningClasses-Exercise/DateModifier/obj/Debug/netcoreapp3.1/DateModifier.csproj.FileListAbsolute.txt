@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.genruntimeconfig.cache
