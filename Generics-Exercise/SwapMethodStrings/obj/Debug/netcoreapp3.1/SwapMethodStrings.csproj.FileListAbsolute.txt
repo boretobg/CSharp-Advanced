@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\bin\Debug\netcoreapp3.1\SwapMethodStrings.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\bin\Debug\netcoreapp3.1\SwapMethodStrings.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\bin\Debug\netcoreapp3.1\SwapMethodStrings.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\bin\Debug\netcoreapp3.1\SwapMethodStrings.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\bin\Debug\netcoreapp3.1\SwapMethodStrings.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\bin\Debug\netcoreapp3.1\SwapMethodStrings.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\SwapMethodStrings\obj\Debug\netcoreapp3.1\SwapMethodStrings.genruntimeconfig.cache

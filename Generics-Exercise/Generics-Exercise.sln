@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{C3BE0172-0D24-4557-8808-412725842456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfIntegers", "GenericBoxOfIntegers\GenericBoxOfIntegers.csproj", "{D1771CE0-0512-49BE-B95F-2551C5B910F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethodStrings", "SwapMethodStrings\SwapMethodStrings.csproj", "{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C3BE0172-0D24-4557-8808-412725842456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3BE0172-0D24-4557-8808-412725842456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3BE0172-0D24-4557-8808-412725842456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1771CE0-0512-49BE-B95F-2551C5B910F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1771CE0-0512-49BE-B95F-2551C5B910F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1771CE0-0512-49BE-B95F-2551C5B910F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1771CE0-0512-49BE-B95F-2551C5B910F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.genruntimeconfig.cache
