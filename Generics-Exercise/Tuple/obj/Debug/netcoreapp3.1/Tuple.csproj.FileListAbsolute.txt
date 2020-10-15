@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache

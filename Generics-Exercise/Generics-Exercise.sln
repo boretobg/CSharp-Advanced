@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{C3BE0172-0D24-4557-8808-412725842456}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{C3BE0172-0D24-4557-8808-412725842456}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfIntegers", "GenericBoxOfIntegers\GenericBoxOfIntegers.csproj", "{D1771CE0-0512-49BE-B95F-2551C5B910F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfIntegers", "GenericBoxOfIntegers\GenericBoxOfIntegers.csproj", "{D1771CE0-0512-49BE-B95F-2551C5B910F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethodStrings", "SwapMethodStrings\SwapMethodStrings.csproj", "{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapMethodStrings", "SwapMethodStrings\SwapMethodStrings.csproj", "{3B8C2DBF-D9E3-4AFA-9254-849598CD90A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapMethodInts", "SwapMethodInts\SwapMethodInts.csproj", "{8285C4DB-5461-4E92-8AC3-897326DB1A58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapMethodInts", "SwapMethodInts\SwapMethodInts.csproj", "{8285C4DB-5461-4E92-8AC3-897326DB1A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodStrings", "GenericCountMethodStrings\GenericCountMethodStrings.csproj", "{F1E944E5-3B8A-46C9-8D1C-E28084E30639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodDoubles", "GenericCountMethodDoubles\GenericCountMethodDoubles.csproj", "{F50EA803-B0E4-477D-9EE0-EF666464FEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{47386D89-1FC9-48F5-951D-FECD171DEE14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{8285C4DB-5461-4E92-8AC3-897326DB1A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8285C4DB-5461-4E92-8AC3-897326DB1A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8285C4DB-5461-4E92-8AC3-897326DB1A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E944E5-3B8A-46C9-8D1C-E28084E30639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E944E5-3B8A-46C9-8D1C-E28084E30639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E944E5-3B8A-46C9-8D1C-E28084E30639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E944E5-3B8A-46C9-8D1C-E28084E30639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50EA803-B0E4-477D-9EE0-EF666464FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50EA803-B0E4-477D-9EE0-EF666464FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50EA803-B0E4-477D-9EE0-EF666464FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50EA803-B0E4-477D-9EE0-EF666464FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47386D89-1FC9-48F5-951D-FECD171DEE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47386D89-1FC9-48F5-951D-FECD171DEE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47386D89-1FC9-48F5-951D-FECD171DEE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47386D89-1FC9-48F5-951D-FECD171DEE14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

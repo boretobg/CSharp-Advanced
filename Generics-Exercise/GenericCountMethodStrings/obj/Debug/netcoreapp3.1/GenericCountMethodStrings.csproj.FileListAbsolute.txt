@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Generics-Exercise\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csprojAssemblyReference.cache
