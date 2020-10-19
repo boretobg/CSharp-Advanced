@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\bin\Debug\netcoreapp3.1\Collection.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\bin\Debug\netcoreapp3.1\Collection.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\bin\Debug\netcoreapp3.1\Collection.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\bin\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache
