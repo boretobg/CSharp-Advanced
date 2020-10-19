@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\IteratorsAndComparators-Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache
