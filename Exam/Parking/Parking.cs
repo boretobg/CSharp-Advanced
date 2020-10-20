@@ -8,71 +8,76 @@ namespace Parking
 {
     public class Parking
     {
-        public List<Car> Cars = new List<Car>();
+        private List<Car> data;
         public string Type { get; set; }
         public int Capacity { get; set; }
-        public int Count = 0;
+        public int Count { get { return data.Count; } }
 
         public Parking(string type, int capacity)
         {
             this.Type = type;
             this.Capacity = capacity;
+            this.data = new List<Car>();
         }
 
         public void Add(Car car)
         {
-            if (Count < Capacity)
+            if (data.Count < Capacity)
             {
-                this.Cars.Add(car);
-                this.Count++;
+                this.data.Add(car);
             }
         }
         public bool Remove(string manifacturer, string model)
         {
-            for (int i = 0; i < Cars.Count; i++)
+            Car toRemove = data.FirstOrDefault(c =>
+            c.Manifacturer == manifacturer && c.Model == model);
+            if (toRemove != null)
             {
-                if (Cars[i].Manifacturer == manifacturer && Cars[i].Model == model)
-                {
-                    Cars.RemoveAt(i);
-                    this.Count--;
-                    return true;
-                }
+                data.Remove(toRemove);
+                return true;
             }
             return false;
         }
         public Car GetLatestCar()
         {
-            if (Cars.Count == 0)
-            {
-                return null;
-            }
-            int max = int.MinValue;
-            Car latest = new Car();
-            for (int i = 0; i < Cars.Count; i++)
-            {
-                if (Cars[i].Year > max)
-                {
-                    max = Cars[i].Year;
-                    latest = Cars[i];
-                }
-            }
-            return latest;
+            Car newest = data.OrderByDescending(x => x.Year).FirstOrDefault();
+            return newest;
+            //if (data.Count == 0)
+            //{
+            //    return null;
+            //}
+            //int max = int.MinValue;
+            //Car latest = new Car();
+            //for (int i = 0; i < data.Count; i++)
+            //{
+            //    if (data[i].Year > max)
+            //    {
+            //        max = data[i].Year;
+            //        latest = data[i];
+            //    }
+            //}
+            //return latest;
         }
         public Car GetCar(string manifacturer, string model)
         {
-            for (int i = 0; i < Cars.Count; i++)
+            for (int i = 0; i < data.Count; i++)
             {
-                if (Cars[i].Manifacturer == manifacturer && Cars[i].Model == model)
+                if (data[i].Manifacturer == manifacturer && data[i].Model == model)
                 {
-                    return Cars[i];
+                    return data[i];
                 }
             }
             return null;
         }
         public string GetStatistics()
         {
-            string output = $"The cars are parked in {this.Type}:\n{string.Join("\n", Cars)}";
-            return output;
+            StringBuilder result = new StringBuilder();
+            result.AppendLine($"The cars are parked in {this.Type}");
+            foreach (var car  in data)
+            {
+                result.AppendLine(car.ToString());
+            }
+            return result.ToString();
         }
     }
 }
