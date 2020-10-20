@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache

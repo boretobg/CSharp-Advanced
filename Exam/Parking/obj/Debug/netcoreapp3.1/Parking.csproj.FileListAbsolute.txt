@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

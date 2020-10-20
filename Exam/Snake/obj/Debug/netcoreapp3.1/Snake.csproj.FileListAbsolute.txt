@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
