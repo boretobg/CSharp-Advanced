@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam3\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.genruntimeconfig.cache

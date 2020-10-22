@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LootBox", "LootBox\LootBox.csproj", "{71269DFA-AB65-4BB2-BA26-19A5498DC5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Re-Volt", "Re-Volt\Re-Volt.csproj", "{D9CA9ADF-C6FE-41C3-98D4-3538CE4B7010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild", "Guild\Guild.csproj", "{381F687D-1779-4F9D-B193-E3352C54D248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71269DFA-AB65-4BB2-BA26-19A5498DC5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71269DFA-AB65-4BB2-BA26-19A5498DC5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71269DFA-AB65-4BB2-BA26-19A5498DC5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71269DFA-AB65-4BB2-BA26-19A5498DC5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CA9ADF-C6FE-41C3-98D4-3538CE4B7010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CA9ADF-C6FE-41C3-98D4-3538CE4B7010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CA9ADF-C6FE-41C3-98D4-3538CE4B7010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CA9ADF-C6FE-41C3-98D4-3538CE4B7010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381F687D-1779-4F9D-B193-E3352C54D248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381F687D-1779-4F9D-B193-E3352C54D248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381F687D-1779-4F9D-B193-E3352C54D248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381F687D-1779-4F9D-B193-E3352C54D248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367F5C6F-EA3E-4420-B1D7-D9A283DF11FD}
+	EndGlobalSection
+EndGlobal

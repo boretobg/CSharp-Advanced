@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\bin\Debug\netcoreapp3.1\Guild.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\bin\Debug\netcoreapp3.1\Guild.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\bin\Debug\netcoreapp3.1\Guild.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\bin\Debug\netcoreapp3.1\Guild.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\Guild\obj\Debug\netcoreapp3.1\Guild.genruntimeconfig.cache

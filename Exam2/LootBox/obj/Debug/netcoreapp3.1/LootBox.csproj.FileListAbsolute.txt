@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\bin\Debug\netcoreapp3.1\LootBox.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\bin\Debug\netcoreapp3.1\LootBox.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\bin\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\bin\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam2\LootBox\obj\Debug\netcoreapp3.1\LootBox.genruntimeconfig.cache
