@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp", "DatingApp\Dati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWorm", "BookWorm\BookWorm.csproj", "{42E249EB-3806-40E1-96FB-A65E92250390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbits", "Rabbits\Rabbits.csproj", "{424FC679-FCD3-4CA3-AAD5-ED0C09E7D0D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42E249EB-3806-40E1-96FB-A65E92250390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E249EB-3806-40E1-96FB-A65E92250390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E249EB-3806-40E1-96FB-A65E92250390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424FC679-FCD3-4CA3-AAD5-ED0C09E7D0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424FC679-FCD3-4CA3-AAD5-ED0C09E7D0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424FC679-FCD3-4CA3-AAD5-ED0C09E7D0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424FC679-FCD3-4CA3-AAD5-ED0C09E7D0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
