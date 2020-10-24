@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantasPresents", "SantasPresents\SantasPresents.csproj", "{6BBA8206-E172-4A1F-89E0-68EB867F09D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentDelivery", "PresentDelivery\PresentDelivery.csproj", "{069E354D-7A51-4C6B-A652-2A6E14CD7C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBA8206-E172-4A1F-89E0-68EB867F09D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBA8206-E172-4A1F-89E0-68EB867F09D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBA8206-E172-4A1F-89E0-68EB867F09D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBA8206-E172-4A1F-89E0-68EB867F09D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069E354D-7A51-4C6B-A652-2A6E14CD7C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069E354D-7A51-4C6B-A652-2A6E14CD7C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069E354D-7A51-4C6B-A652-2A6E14CD7C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069E354D-7A51-4C6B-A652-2A6E14CD7C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA46A810-E9F9-422C-8D65-BA8465DCE573}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\bin\Debug\netcoreapp3.1\SantasPresents.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\bin\Debug\netcoreapp3.1\SantasPresents.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\bin\Debug\netcoreapp3.1\SantasPresents.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\bin\Debug\netcoreapp3.1\SantasPresents.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\bin\Debug\netcoreapp3.1\SantasPresents.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\bin\Debug\netcoreapp3.1\SantasPresents.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\SantasPresents\obj\Debug\netcoreapp3.1\SantasPresents.genruntimeconfig.cache
