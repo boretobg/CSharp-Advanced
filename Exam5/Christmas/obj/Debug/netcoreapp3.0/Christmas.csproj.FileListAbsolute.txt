@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\bin\Debug\netcoreapp3.0\Christmas.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\bin\Debug\netcoreapp3.0\Christmas.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\bin\Debug\netcoreapp3.0\Christmas.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\bin\Debug\netcoreapp3.0\Christmas.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\bin\Debug\netcoreapp3.0\Christmas.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam5\Christmas\obj\Debug\netcoreapp3.0\Christmas.genruntimeconfig.cache
