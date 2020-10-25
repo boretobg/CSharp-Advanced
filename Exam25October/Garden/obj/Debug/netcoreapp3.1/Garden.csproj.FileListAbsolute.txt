@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\bin\Debug\netcoreapp3.1\Garden.exe
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\bin\Debug\netcoreapp3.1\Garden.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\bin\Debug\netcoreapp3.1\Garden.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\bin\Debug\netcoreapp3.1\Garden.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\bin\Debug\netcoreapp3.1\Garden.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\bin\Debug\netcoreapp3.1\Garden.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.dll
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharpAdvanced\Exam25October\Garden\obj\Debug\netcoreapp3.1\Garden.genruntimeconfig.cache

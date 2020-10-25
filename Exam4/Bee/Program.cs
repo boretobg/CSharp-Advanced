@@ -27,7 +27,6 @@ namespace Bee
                 }
             }
 
-
             int flowers = 0;
 
             bool isOutside = false;
@@ -112,7 +111,7 @@ namespace Bee
             }
         }
 
-        private static void CheckInFront(char[,] matrix, ref int row, ref int col, ref int flowers, string line, bool outside, int n)
+        private static void CheckInFront(char[,] matrix, ref int row, ref int col, ref int flowers, string line, bool isOutside, int n)
         {
             if (matrix[row, col] == 'f')
             {
@@ -124,42 +123,40 @@ namespace Bee
                 matrix[row, col] = '.';
                 if (line == "up")
                 {
-                    row--;
-                    if (row < 0)
+                    if (row - 1 < 0)
                     {
-                        outside = true;
+                        isOutside = true;
+                        return;
                     }
+                    row--;
                 }
                 else if (line == "down")
                 {
-                    row++;
-                    if (row > n)
+                    if (row + 1 >= n)
                     {
-                        outside = true;
+                        isOutside = true;
+                        return;
                     }
+                    row++;
                 }
                 else if (line == "left")
                 {
-                    col--;
-                    if (col < 0)
+                    if (col - 1 < 0)
                     {
-                        outside = true;
+                        isOutside = true;
+                        return;
                     }
+                    col--;
                 }
                 else if (line == "right")
                 {
-                    col++;
-                    if (col > n)
+                    if (col + 1 >= n)
                     {
-                        outside = true;
+                        isOutside = true;
+                        return;
                     }
+                    col++;
                 }
-            }
-
-            if (matrix[row, col] == 'f')
-            {
-                flowers++;
-                matrix[row, col] = '.';
             }
         }
     }
